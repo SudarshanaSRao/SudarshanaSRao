@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/sudarshana-rao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshana-rao" height="30" width="40" /></a>
 </p>
-<p align="right">
+<p align="left">
 <a href="https://sudarshanasrao.github.io/" target="blank"><img align="center" src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/41636d4e-9427-4218-9ce4-155279bcb2b1" alt="sudarshana-rao" height="30" width="40" />
 </a>
 </p>
