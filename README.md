@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-###🎓 Recent graduate with a Master's in Electrical Engineering (Machine Learning and Data Science) seeking full-time opportunities. Passionate about uncovering insights from complex datasets 📊 using Python, Java, C++, R, SQL, and more. Experienced in machine learning, statistical modeling, data visualization, and working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝💻🔍
+### 🎓 Recent graduate with a Master's in Electrical Engineering (Machine Learning and Data Science) seeking full-time opportunities. Passionate about uncovering insights from complex datasets 📊 using Python, Java, C++, R, SQL, and more. Experienced in machine learning, statistical modeling, data visualization, and working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝💻🔍
 
 <h1 align="center">Connect with me on:</h1>
 <p align="center">
