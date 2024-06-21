@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I am Sudarshana S Rao, and welcome to my GitHub profile! I am a tech enthusiast, and my GitHub repositories are evidence of this 😎 
+## I am Sudarshana S Rao, and welcome to my GitHub profile! I am a tech enthusiast, and my GitHub repositories are evidence of this 😎 
 
 <!--
 **SudarshanaSRao/SudarshanaSRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->🎓 Recent graduate with a Master's in Electrical Engineering (Machine Learning and Data Science) seeking full-time opportunities. Passionate about uncovering insights from complex datasets 📊 using Python, Java, C++, R, SQL, and more. Experienced in machine learning, statistical modeling, data visualization, and working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝💻🔍
+- ⚡ Fun fact: ... -->
+###🎓 Recent graduate with a Master's in Electrical Engineering (Machine Learning and Data Science) seeking full-time opportunities. Passionate about uncovering insights from complex datasets 📊 using Python, Java, C++, R, SQL, and more. Experienced in machine learning, statistical modeling, data visualization, and working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝💻🔍
 
-<h1 align="center">Connect with me on:</h3>
+<h1 align="center">Connect with me on:</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/sudarshana-rao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshana-rao" height="30" width="40" /></a>
 <a href="https://sudarshanasrao.github.io/" target="blank"><img align="center" src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/41636d4e-9427-4218-9ce4-155279bcb2b1" alt="sudarshana-rao" height="30" width="40" />
