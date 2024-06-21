@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+### I am Sudarshana S Rao, and welcome to my GitHub profile! I am a tech enthusiast, and my GitHub repositories are evidence of this 😎 
 
 <!--
 **SudarshanaSRao/SudarshanaSRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
