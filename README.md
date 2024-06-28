@@ -1,4 +1,4 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 ## I am Sudarshana S Rao, and welcome to my GitHub profile! I am a tech enthusiast, and my GitHub repositories are evidence of this 😎 
 
