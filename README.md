@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h1>Connect with me on:</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/sudarshana-rao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshana-rao" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/sudarshana-rao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshana-rao" height="50" width="50" /></a> <hr>
 <a href="https://sudarshanasrao.github.io/" target="blank"><img align="center" src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/41636d4e-9427-4218-9ce4-155279bcb2b1" alt="sudarshana-rao" height="50" width="50" />
 </a>
 </p>
