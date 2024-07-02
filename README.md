@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/27de0a91-92f9-4a80-8fbc-4c34f9b10fd9" width="100%" height="200px">
 
-## I am Sudarshana S Rao, and welcome to my GitHub profile! I am a tech enthusiast, and my GitHub repositories are evidence of this 😎🧠😬
+## I am Sudarshana S Rao 🤓, and welcome to my GitHub profile! I am a movie buff 💪, a travel freak 🌎, a tech enthusiast, and my repositories are evidence of this 🧠😬
 <!--
 **SudarshanaSRao/SudarshanaSRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
