@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-### 🎓 Recent graduate with a Master's in Electrical Engineering (Machine Learning and Data Science) from ![Sc](https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/d0efdd99-e522-48d6-8dee-4f6f85511c11). Fascinated by the ability of machines to learn from data and uncover patterns that assist us in making data-driven decisions. 🔍
+### 🎓 Recent graduate with a Master's in Electrical Engineering (Machine Learning and Data Science) from ![Sc](https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/2fca3ae3-11d9-4853-af80-d6395720f94f). Fascinated by the ability of machines to learn from data and uncover patterns that assist us in making data-driven decisions. 🔍
 
 ### ❤️ Passionate about applying math to develop models/algorithms, analyze data patterns, understand model interpretability, build LLMs, and code data pipelines. Experienced in machine learning, statistical modeling, data visualization, deep learning, data analytics, natural language processing, working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝
 
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <a href="https://sudarshanasrao.github.io/" target="blank"><img align="center" src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/41636d4e-9427-4218-9ce4-155279bcb2b1" alt="sudarshana-rao" height="50" width="50" />
 </a>
 </p>
+
   
 # 💻 Tech Stack:
 
