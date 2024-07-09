@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-### 🎓 Recent graduate with a Master's in Electrical Engineering (Machine Learning and Data Science) seeking full-time opportunities. Fascinated by the ability of machines to learn from data and uncover patterns that assist us in making data-driven decisions. Passionate about applying math to develop models/algorithms, analyze data patterns, understand model interpretability, build LLMs, and code data pipelines. Experienced in machine learning, statistical modeling, data visualization, deep learning, data analytics, natural language processing, working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝🔍
+### 🎓 Recent graduate with a Master's in Electrical Engineering (Machine Learning and Data Science) seeking full-time opportunities. Fascinated by the ability of machines to learn from data and uncover patterns that assist us in making data-driven decisions. 
+
+### Passionate about applying math to develop models/algorithms, analyze data patterns, understand model interpretability, build LLMs, and code data pipelines. Experienced in machine learning, statistical modeling, data visualization, deep learning, data analytics, natural language processing, working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝🔍
 
 <h1>Connect with me on:</h1>
 <p align="center">
