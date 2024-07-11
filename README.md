@@ -23,29 +23,13 @@ Here are some ideas to get you started:
 
 <h1>Connect with me on:</h1>
 <p align="center">
-<div class="flexcontainer">
-<div>
 <a href="https://www.linkedin.com/in/sudarshana-rao/" onclick="trackOutboundLink(this);" target="blank">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshana-rao" />
 </a> &nbsp; &nbsp;
   <a href="https://sudarshanasrao.github.io/" onclick="trackOutboundLink(this);" target="blank">
   <img align="center" height="50" width="50" src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/41636d4e-9427-4218-9ce4-155279bcb2b1" alt="sudarshana-rao" />
 </a>
-</div>
-</div>
 </p>
-<style>
-  .flexcontainer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-    .download-container {
-    display: flex; /* Ensures content is in a row */
-    align-items: center; /* Aligns text and image vertically */
-    gap: 10px; /* Adds space between text and image */
-  }
-</style>
   
 # 💻 Tech Stack:
 
