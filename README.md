@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <div>
 <a href="https://sudarshanasrao.github.io/" onclick="trackOutboundLink(this);" target="blank">
   <img align="center" height="50" width="50" src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/41636d4e-9427-4218-9ce4-155279bcb2b1" alt="sudarshana-rao" />
-</a> &nbsp; &nbsp;
+</a>
 </div>
 </div>
 </p>
