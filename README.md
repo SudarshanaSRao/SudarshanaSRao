@@ -34,6 +34,18 @@ Here are some ideas to get you started:
 </div>
 </div>
 </p>
+<style>
+  .flexcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+    .download-container {
+    display: flex; /* Ensures content is in a row */
+    align-items: center; /* Aligns text and image vertically */
+    gap: 10px; /* Adds space between text and image */
+  }
+</style>
   
 # 💻 Tech Stack:
 
