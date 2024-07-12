@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshana-rao" />
 </a> &nbsp; &nbsp;
   <a href="https://sudarshanasrao.github.io/" target="blank">
-  <img align="center" height="50" width="50" src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/41636d4e-9427-4218-9ce4-155279bcb2b1" alt="sudarshana-rao" />
+  <img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/4f8725f5-6192-4bad-be72-6a6de52272c7" alt="sudarshana-rao" />
 </a>
 </p>
   
