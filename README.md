@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <a href="https://sudarshanasrao.github.io/" target="blank">
   <img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/4f8725f5-6192-4bad-be72-6a6de52272c7" alt="sudarshana-rao" />
 </a> &nbsp; &nbsp;
-  <a href="mailto:sudarshanasrao@gmail.com"><img align="center" height="50" width="50" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sudarshanasrao@gmail.com"><img align="center" height="50" width="70" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
   
 # 💻 Tech Stack:
