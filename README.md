@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<img src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/27de0a91-92f9-4a80-8fbc-4c34f9b10fd9"  width="500px" height="200px">
+<img src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/27de0a91-92f9-4a80-8fbc-4c34f9b10fd9"  width="1000px" height="200px">
 
 ## I am Sudarshana S Rao 🤓, and welcome to my GitHub profile! I am a movie buff 💪, a travel freak 🌎, a tech enthusiast 💻, and my repositories are evidence of this 🧠😬
 <!--
