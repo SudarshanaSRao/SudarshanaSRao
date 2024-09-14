@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 🎓 Recent graduate with a Master's in Electrical Engineering (Machine Learning and Data Science) from ![Sc](https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/2fca3ae3-11d9-4853-af80-d6395720f94f) Fascinated by the ability of machines to learn from data and uncover patterns that assist us in making data-driven decisions. 🔍
 
-### ❤️ Passionate about applying math to develop models/algorithms, analyze data patterns, understand model interpretability, build LLMs, and code data pipelines. Experienced in machine learning, statistical modeling, data visualization, deep learning, data analytics, natural language processing, working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝
+### ❤️ Passionate about applying math to develop models/algorithms, analyze data patterns, understand model interpretability, build LLMs, and code data pipelines. Additionally, I am passionate about deriving impactful business insights through data analysis and making AI models safe, reliable, and transparent. Experienced in machine learning, statistical modeling, data visualization, deep learning, data analytics, natural language processing, working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝
 
 <h1>Connect with me on:</h1>
 <p align="center">
