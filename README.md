@@ -30,7 +30,6 @@
         <button class="poppy-button">Multi-model Agentic Workflows</button>
     </div>
 </div>
-
 <style>
     .poppy-button {
         background-color: #ff6f61; /* Poppy color */
