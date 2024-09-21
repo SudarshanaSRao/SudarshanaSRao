@@ -11,21 +11,21 @@
 ### ❤️ Passionate about applying math to develop models/algorithms, analyze data patterns, understand model interpretability, build LLMs, and code data pipelines. Additionally, I am passionate about deriving impactful business insights through data analysis and making AI models safe, reliable, and transparent. Experienced in machine learning, statistical modeling, data visualization, deep learning, data analytics, natural language processing, working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝
 
 ## ⚡ Skills & Tools- 
-- [BeautifulSoup](#) 
-- [Matplotlib](#)
-- [HuggingFace](#)
-- [LangChain](#)
-- [MS Office](#)
-- [Google Sheets](#)
-- [Data Structures and Algorithms](#)
-- [XML](#)
-- [ESRI ArcGIS](#)
-- [ETL](#)
-- [MLOps](#)
-- [LLMOps](#)
-- [DataOps](#)
-- [Conversational Agents](#)
-- [Multi-model Agentic Workflows](#)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ff6f61?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff6f61?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ff6f61?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-ff6f61?style=for-the-badge)
+![MS Office](https://img.shields.io/badge/MS_Office-ff6f61?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-ff6f61?style=for-the-badge)
+![Data Structures and Algorithms](https://img.shields.io/badge/Data_Structures_and_Algorithms-ff6f61?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-ff6f61?style=for-the-badge)
+![ESRI ArcGIS](https://img.shields.io/badge/ESRI_ArcGIS-ff6f61?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-ff6f61?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-ff6f61?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-ff6f61?style=for-the-badge)
+![DataOps](https://img.shields.io/badge/DataOps-ff6f61?style=for-the-badge)
+![Conversational Agents](https://img.shields.io/badge/Conversational_Agents-ff6f61?style=for-the-badge)
+![Multi-model Agentic Workflows](https://img.shields.io/badge/Multi_model_Agentic_Workflows-ff6f61?style=for-the-badge)
 
 <h1>Connect with me on:</h1>
 <p align="center">
