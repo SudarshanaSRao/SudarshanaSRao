@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### ❤️ Passionate about applying math to develop models/algorithms, analyze data patterns, understand model interpretability, build LLMs, and code data pipelines. Additionally, I am passionate about deriving impactful business insights through data analysis and making AI models safe, reliable, and transparent. Experienced in machine learning, statistical modeling, data visualization, deep learning, data analytics, natural language processing, working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝
 
 ## ⚡ Skills & Tools- 
-#### _<BeautifulSoup>  <Matplotlib>  <HuggingFace>  <LangChain>  <MS Office>  <Google Sheets>  <Data Structures and Algorithms>  <XML>  <ESRI ArcGIS>  <ETL>  <MLOps>  <LLMOps>  <DataOps>  <Conversational Agents>  <Multi-model Agentic Workflows>_
+#### _BeautifulSoup  Matplotlib  HuggingFace  LangChain  MS Office  Google Sheets  Data Structures and Algorithms  XML  ESRI ArcGIS  ETL  MLOps  LLMOps  DataOps  Conversational Agents  Multi-model Agentic Workflows_
 
 <h1>Connect with me on:</h1>
 <p align="center">
