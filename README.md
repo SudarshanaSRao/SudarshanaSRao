@@ -5,26 +5,60 @@
 </div>
 
 ## I am Sudarshana S Rao 🤓, and welcome to my GitHub profile! I am a movie buff 💪, a travel freak 🌎, a tech enthusiast 💻, and my repositories are evidence of this 🧠😬
-<!--
-**SudarshanaSRao/SudarshanaSRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
 ### 🎓 Recent graduate with a Master's in Electrical Engineering (Machine Learning and Data Science) from ![Sc](https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/2fca3ae3-11d9-4853-af80-d6395720f94f) Fascinated by the ability of machines to learn from data and uncover patterns that assist us in making data-driven decisions. 🔍
 
 ### ❤️ Passionate about applying math to develop models/algorithms, analyze data patterns, understand model interpretability, build LLMs, and code data pipelines. Additionally, I am passionate about deriving impactful business insights through data analysis and making AI models safe, reliable, and transparent. Experienced in machine learning, statistical modeling, data visualization, deep learning, data analytics, natural language processing, working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝
 
 ## ⚡ Skills & Tools- 
-#### _BeautifulSoup  Matplotlib  HuggingFace  LangChain  MS Office  Google Sheets  Data Structures and Algorithms  XML  ESRI ArcGIS  ETL  MLOps  LLMOps  DataOps  Conversational Agents  Multi-model Agentic Workflows_
+<div class="center">
+    <div class="button-container">
+        <button class="poppy-button">BeautifulSoup</button>
+        <button class="poppy-button">Matplotlib</button>
+        <button class="poppy-button">HuggingFace</button>
+        <button class="poppy-button">LangChain</button>
+        <button class="poppy-button">MS Office</button>
+        <button class="poppy-button">Google Sheets</button>
+        <button class="poppy-button">Data Structures and Algorithms</button>
+        <button class="poppy-button">XML</button>
+        <button class="poppy-button">ESRI ArcGIS</button>
+        <button class="poppy-button">ETL</button>
+        <button class="poppy-button">MLOps</button>
+        <button class="poppy-button">LLMOps</button>
+        <button class="poppy-button">DataOps</button>
+        <button class="poppy-button">Conversational Agents</button>
+        <button class="poppy-button">Multi-model Agentic Workflows</button>
+    </div>
+</div>
+
+<style>
+    .poppy-button {
+        background-color: #ff6f61; /* Poppy color */
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        margin: 5px;
+        font-size: 16px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+    .poppy-button:hover {
+        background-color: #ff3f3f;
+    }
+    .button-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    /* Center the buttons */
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+</style>
 
 <h1>Connect with me on:</h1>
 <p align="center">
