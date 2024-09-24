@@ -1,4 +1,4 @@
-<h1 align="center">Hi, there! 👋</h1>
+<h1 align="center">Hey, there! 👋</h1>
 
 <div align="center">
   <img src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/27de0a91-92f9-4a80-8fbc-4c34f9b10fd9" style="width: 100%; height: auto; display: block;">
