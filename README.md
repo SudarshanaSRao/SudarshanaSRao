@@ -18,7 +18,7 @@
   <a href="https://sudarshanasrao.github.io/" target="blank">
   <img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/4f8725f5-6192-4bad-be72-6a6de52272c7" alt="sudarshana-rao" />
 </a> &nbsp; &nbsp;
-  <a href="mailto:sudarshanasrao@gmail.com"><img align="center" height="50" width="70" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=email&logoColor=white" /></a> &nbsp; &nbsp;
+  <a href="mailto:sudarshanasrao@gmail.com"><img align="center" height="50" width="70" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp;
   <a href="https://medium.com/@sudarshanasrao"><img align="center" height="50" width="70" src="https://github.com/user-attachments/assets/4f06b45c-14d9-44bd-b4f8-35669733cc08" /> </a>
 </p>
   
