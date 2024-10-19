@@ -4,7 +4,7 @@
   <img src="https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/27de0a91-92f9-4a80-8fbc-4c34f9b10fd9" style="width: 100%; height: auto; display: block;">
 </div>
 
-## I am Sudarshana S Rao 🤓, and welcome to my GitHub profile! I am a movie buff 💪, a travel freak 🌎, a tech enthusiast ⚡, and my repositories are evidence of this 🧠😬
+## 🤓 Welcome to my GitHub profile! I am a movie buff 💪, a travel freak 🌎, a tech enthusiast ⚡, and my repositories are evidence of this 🧠😬
 
 ### 🎓 Graduated with a Master's in Electrical Engineering (Machine Learning and Data Science) from ![Sc](https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/2fca3ae3-11d9-4853-af80-d6395720f94f) Fascinated by the ability of machines to learn from data and uncover patterns that assist us in making data-driven decisions. Skilled in Machine Learning, Data Science, Deep Learning, Computer Vision, Artificial Intelligence, and Natural Language Processing. 👨‍🎓🔍
 
