@@ -12,10 +12,10 @@
 
 <h1>Connect with me on:</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/sudarshana-rao/" target="blank">
+<a href="https://www.linkedin.com/in/sudarshana-rao/" target="_blank">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshana-rao" />
 </a> &nbsp; &nbsp;
-  <a href="https://sudarshanasrao.github.io/" target="blank">
+  <a href="https://sudarshanasrao.github.io/" target="_blank">
   <img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/4f8725f5-6192-4bad-be72-6a6de52272c7" alt="sudarshana-rao" />
 </a> &nbsp; &nbsp;
   <a href="mailto:sudarshanasrao@gmail.com"><img align="center" height="50" width="70" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp;
