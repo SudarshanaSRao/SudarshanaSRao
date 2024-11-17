@@ -10,7 +10,7 @@
 
 ### ❤️ Passionate about applying math to develop models/algorithms, analyze data patterns, understand model interpretability, build LLMs, and code data pipelines. Additionally, I am passionate about deriving impactful business insights through data analysis and making AI models safe, reliable, and transparent. Experienced in machine learning, statistical modeling, data visualization, deep learning, data analytics, natural language processing, working with LLMs and Generative AI 🤖. Let's connect and achieve something amazing together! 🤝
 
-<h1>Connect with me on:</h1>
+<h1>📲 Connect with me on:</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/sudarshana-rao/" target="_blank">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshana-rao" />
