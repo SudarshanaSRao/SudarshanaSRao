@@ -6,7 +6,7 @@
 
 ## 🤓 Welcome to my GitHub profile! I am a movie buff 💪, a travel freak 🌎, a tech enthusiast ⚡, and my repositories are evidence of this 🧠😬
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=30&lines=Data+Scientist;Data+Analyst;ML+Engineer;AI+Engineer;NLP+Engineer;DL+Engineer;Data+Engineer;Software+Engineer;)
+<div align="right">![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=30&lines=Data+Scientist;Data+Analyst;ML+Engineer;AI+Engineer;NLP+Engineer;DL+Engineer;Data+Engineer;Software+Engineer;)</div>
 
 ### 🎓 Graduated with a Master's in Electrical Engineering (Machine Learning and Data Science) from ![Sc](https://github.com/SudarshanaSRao/SudarshanaSRao/assets/87690830/2fca3ae3-11d9-4853-af80-d6395720f94f) Fascinated by the ability of machines to learn from data and uncover patterns that assist us in making data-driven decisions. Skilled in Machine Learning, Data Science, Deep Learning, Computer Vision, Artificial Intelligence, and Natural Language Processing. 👨‍🎓🔍
 
